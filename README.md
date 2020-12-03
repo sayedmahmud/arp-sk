@@ -10,13 +10,16 @@ ARP traffic generation tools
 The latest version of the famous arp package generation tool!
 
 # Dependecies
-- libnet
+- libnet1 (libnet1-dev)
 
 # Installation
 
 ```
 ./configure
 make
+```
+_if there are problems with "aclocal-1.4", continue with:_
+```
 sudo make install
 ```
 
