@@ -20,6 +20,7 @@ make
 ```
 _if there are problems with ```aclocal-1.4```, continue with:_
 ```
+autoreconf -f -i
 sudo make install
 ```
 
