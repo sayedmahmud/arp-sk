@@ -18,7 +18,7 @@ The latest version of the famous arp package generation tool!
 ./configure
 make
 ```
-_if there are problems with "aclocal-1.4", continue with:_
+_if there are problems with ```aclocal-1.4```, continue with:_
 ```
 sudo make install
 ```
